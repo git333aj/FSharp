@@ -75,4 +75,4 @@ module DirList =
             printfn "tree error: %s" ex.Message
 
 
-//https://chatgpt.com/c/693ca994-0e5c-8321-a2dd-6b5f04f1009c
+
