@@ -1,0 +1,23 @@
+# Ignore build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# F# interactive / script temp files
+*.fsx~ 
+*.tmp
+
+# User-specific
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
